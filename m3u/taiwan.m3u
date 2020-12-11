@@ -1,3 +1,16 @@
+
+
+#EXTINF：-1, tvg-id =“ 6028”, tvg-logo = "http://tv.sason.xyz/logo/zs.png?", group-title ="港澳台", 中視
+http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flv
+
+
+
+
+
+
+
+
+
 ＃http://47.240.60.73/zszb.php?id=
 ＃http://live.ergt4rt.wang/gangaotai.php?id=
 ＃http://103.56.112.40/ddjgt.php?id=
@@ -71,8 +84,7 @@
 ＃http://103.145.38.152/kds/xgt.php?id=67
 #EXTINF：-1 tvg-id =“” tvg-logo =“ http” group-title =“港澳台（代理）”，華納電影
 ＃http://103.145.38.152/kds/xgt.php?id=69
-#EXTINF：-1 tvg-id =“ 6028” tvg-logo =“ http://tv.sason.xyz/logo/zs.png” group-title =“港澳台（代理）”，中視
-＃http://103.145.38.152/kds/xgt.php?id=73
+
 #EXTINF：-1 tvg-id =“ 6030” tvg-logo =“ http://www.tvyan.com/uploads/dianshi/cts-news.jpg” group-title =“港澳台（代理）”，華視
 ＃http://103.145.38.152/kds/xgt.php?id=77
 #EXTINF：-1 tvg-id =“ 6057” tvg-logo =“ http://tv.sason.xyz/logo/ztyl.png” group-title =“港澳台（代理）”，中天娛樂
