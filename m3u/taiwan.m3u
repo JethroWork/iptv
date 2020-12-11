@@ -1,8 +1,8 @@
-
-
-#EXTINF：-1, tvg-id =“ 6028”, tvg-logo = "http://tv.sason.xyz/logo/zs.png?", group-title ="港澳台", 中視
-http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flv
-
+#EXTM3U 
+#EXTINF：-1 ,華視
+http://60.250.69.26:8080/live/ctinews89.m3u8
+#EXTINF:-1 ,衛視中文 
+http://60.250.69.26:8080/live/startchines89.m3u8
 
 
 
