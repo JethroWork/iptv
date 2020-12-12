@@ -1,10 +1,12 @@
 #EXTM3U 
-#EXTINF：-1 ,華視
-http://60.250.69.26:8080/live/ctinews89.m3u8
-#EXTINF:-1 ,衛視中文 
-http://60.250.69.26:8080/live/startchines89.m3u8
-
-
+#EXTINF：-1, HBO HD English
+https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1, 中天新聞HD 
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1, BBC News 2
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" group-title="News",Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 
 
