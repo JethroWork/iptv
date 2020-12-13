@@ -1,4 +1,95 @@
-HBO HD English, https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-中天新聞HD, http://seb.sason.top/sc/ztxw_fhd.m3u8
-BBC News 2, http://51.52.156.22:8888/http/004
-Bloomberg TV, https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+台灣|[01]HBO HD English, https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+台灣|[02]中天新聞HD, http://seb.sason.top/sc/ztxw_fhd.m3u8
+台灣|[03]BBC News 2, http://51.52.156.22:8888/http/004
+台灣|[04]Bloomberg TV, https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+台灣|[05]FTV民視台,http://208.75.225.28/live/VMFTV/playlist.m3u8
+台灣|[05]FTV民視台,rtmp://208.75.225.28:1935/live/VMFTV
+台灣|[05]FTV民視台,sop://124.232.150.188:3920/5692
+台灣|[05]FTV民視台,http://45.32.58.12/gtk/tv052.m3u8
+台灣|[05]FTV民視台,http://207.244.92.177:5000/nn_live.m3u8"+"%3fid%3dMS%26ngs%3d588044af000c965860843adb189adf23%26nn_user_id%3d398897665-4UILA%26ndi%3d00-66-DE-00-19-66%26nal%3d01af44805806077cdf0fac54a5de8ff5e2a8317e93ab3f"+"&inputType=hls&apiCallback=bit234296723268
+台灣|[07]TTV台視台,rtmp://208.75.225.28:1935/live/VMTTV
+台灣|[07]TTV台視台,http://208.75.225.28/live/VMTTV/playlist.m3u8
+台灣|[07]TTV台視台,sop://124.232.150.188:3920/5696
+台灣|[07]TTV台視台,http://45.32.58.12/gtk/tv072.m3u8
+台灣|[07]TTV台視台,http://hamitv-hichannel.cdn.hinet.net/out/u/live/gop3/cht/hamitv-live046/hls-cl-tv/index.m3u8?token=EecoGWkZCaNxdAUMWLPqyA&expires=1483686285
+台灣|[08]CN卡通,http://61.222.191.61/live/ch26/playlist.m3u8
+台灣|[09]CTV中視台,http://45.32.58.12/gtk/tv092.m3u8
+台灣|[09]CTV中視台,sop://124.232.150.188:3920/5698
+台灣|[11]CTS華視台,http://k1.cs.122kk.com/nn_live.m3u8?id=HSHD&ngs=588188ad000f41166097a9cb9622bec4&nn_user_id=398897665-S38C4&ndi=00-66-DE-00-19-66&nal=01ae8881580607de18cea281c99c266ddb6069617f69aa
+台灣|[11]CTS華視台,http://208.75.225.28/live/CTSTV/playlist.m3u8
+台灣|[11]CTS華視台,http://207.244.92.177:5000/nn_live.m3u8?id=HSHD&ngs=5880450c00079f68ece27c216ec97338&nn_user_id=398897665-097YJ&ndi=00-66-DE-00-19-66&nal=010c45805806078f6e8709b7320a5aca225b610950cd74
+台灣|[16]原住民電視台,http://waaarplive03-lh.akamaihd.net/i/titv_1@191631/master.m3u8
+台灣|[16]原住民電視台,http://live.waaarp.com/live/_definst_/smil:titv/titv.smil/chunklist_w.m3u8
+台灣|[18]國家地理,sop://124.232.150.188:3920/5699
+台灣|[18]國家地理,http://live.3xgd.com/VJTVPlayer.swf?src=vjms://198.255.90.44:8500/live/cid=115
+台灣|[19]探索頻道,sop://124.232.150.188:3920/5700
+台灣|[23]迪士尼卡通,sop://124.232.150.188:3920/5703
+台灣|[24]MOMO親子台,http://58.99.33.4:1935/liveedge/live_733_3.stream/playlist.m3u8
+台灣|[25]東森幼幼,http://61.222.191.241/live/ch04/playlist.m3u8
+台灣|[26]緯來綜合,http://61.216.79.193/live/ch09/playlist.m3u8
+台灣|[27]GTV第一,http://61.216.131.1/live/ch23/playlist.m3u8
+台灣|[28]GTV綜合,http://61.216.131.1/live/ch25/playlist.m3u8
+台灣|[29]三立台灣,http://bcoveliveios-i.akamaihd.net/hls/live/226708/4338955585001/master.m3u8
+台灣|[30]三立都會,http://bcoveliveios-i.akamaihd.net/hls/live/226707/4338955585001/master.m3u8
+台灣|[31]衛視中文台,http://207.244.92.176:5000/nn_live.m3u8?id=WSZW&ngs=5880446400075f2b0c0b375390623e43&nn_user_id=398897665-UH7HN&ndi=00-66-DE-00-19-66&nal=016444805806077d5f90d4453033855582d914d1d3e05b
+台灣|[32]東森綜合,http://61.222.191.241/live/ch03/playlist.m3u8
+台灣|[39]中天娛樂,rtsp://173.224.209.43/ztyl
+台灣|[40]東森戲劇,http://61.222.191.241/live/ch02/playlist.m3u8
+台灣|[43]緯來戲劇,http://61.216.79.193/live/ch06/playlist.m3u8
+台灣|[41]GTV戲劇,http://61.216.131.1/live/ch24/playlist.m3u8
+台灣|[49]壹新聞,http://208.75.225.28:1935/live/NEXTV/chunklist_w.m3u8
+台灣|[49]壹新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8
+台灣|[49]壹新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8   
+台灣|[49]壹新聞,http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist_w.m3u8 
+台灣|[51]東森新聞HD,http://60.199.188.152/HLS/WG_ETTV-N/01.m3u8
+台灣|[51]東森新聞HD,http://60.199.188.152/HLS/WG_ETTV-N/02.m3u8
+台灣|[51]東森新聞,http://61.222.191.241/live/ch01/index.m3u8
+台灣|[51]東森新聞,http://61.222.191.241/live/ch01/playlist.m3u8
+台灣|[52]中天新聞HD,http://61.222.191.25/live/ch15/playlist.m3u8
+台灣|[55]TVBS新聞HD,http://61.222.191.61/live/ch27/playlist.m3u8
+台灣|[55]TVBS新聞,http://60.199.188.152/HLS/WG_TVBS-N/01.m3u8
+台灣|[58]非凡新聞,http://61.222.191.25/live/ch14/playlist.m3u8
+台灣|[58]非凡新聞HD,http://60.199.188.152/HLS/WG_USTV-N/index.m3u8
+台灣|[63]緯來電影,http://61.216.131.133/live/ch31/playlist.m3u8
+台灣|[65]HBO,http://61.222.191.25/live/ch11/playlist.m3u8
+台灣|[70]緯來育樂,http://61.216.79.193/live/ch10/playlist.m3u8
+台灣|[71]CINEMAX,http://61.216.131.133/live/ch32/playlist.m3u8
+台灣|[72]緯來體育,http://61.216.79.193/live/ch07/playlist.m3u8
+台灣|[73]Fox運動,http://61.222.191.25/live/ch12/playlist.m3u8
+台灣|[74]Fox運動2,http://61.222.191.241/live/ch05/playlist.m3u8
+台灣|[76]緯來日本,http://61.216.79.193/live/ch08/playlist.m3u8
+台灣|[82]世界,http://125.227.175.199/sta/ch323068.m3u8
+台灣|[85]凱亞,http://125.227.175.199/sta/ch323066.m3u8
+台灣|[91]中華財經,http://211.22.61.109/sta/CH323054.m3u8
+台灣|[91]中華財經,http://125.227.175.199/sta/ch323054.m3u8
+台灣|[93]全球財經,http://211.22.61.109/sta/CH323064.m3u8
+台灣|[93]全球財經,http://125.227.175.199/sta/ch323064.m3u8
+台灣|[95]NHK world,http://61.222.191.25/live/ch13/playlist.m3u8
+台灣|[103]華藏衛星,rtmp://61.160.254.37/liveedge/cult
+台灣|[110]新唐人亞太,http://123.108.164.71/etv2/phd926/playlist.m3u8
+台灣|[M024]靖天卡通,http://211.22.61.109/stc/ch168164.m3u8
+台灣|[M024]靖天卡通,http://211.22.61.109/stc/ch168154.m3u8
+台灣|[M024]靖天卡通,http://61.222.48.67/stc/ch168154.m3u8
+台灣|[M024]靖天卡通,http://61.222.48.67/stc/ch168164.m3u8
+台灣|[M023]靖洋卡通,http://211.22.61.109/stc/ch168168.m3u8
+台灣|[M023]靖洋卡通,http://211.22.61.109/stc/ch168158.m3u8
+台灣|[M023]靖洋卡通,http://61.222.48.67/stc/ch168168.m3u8
+台灣|[M023]靖洋卡通,http://61.222.48.67/stc/ch168158.m3u8
+台灣|[M027]靖天資訊,http://211.22.61.109/stc/ch168167.m3u8
+台灣|[M027]靖天資訊,http://211.22.61.109/stc/ch168157.m3u8
+台灣|[M027]靖天資訊,http://61.222.48.67/stc/ch168157.m3u8
+台灣|[M027]靖天資訊,http://61.222.48.67/stc/ch168167.m3u8
+台灣|[M029]靖天育樂,http://211.22.61.109/stc/ch168165.m3u8
+台灣|[M029]靖天育樂,http://211.22.61.109/stc/ch168155.m3u8
+台灣|[M029]靖天育樂,http://61.222.48.67/stc/ch168155.m3u8
+台灣|[M029]靖天育樂,http://61.222.48.67/stc/ch168165.m3u8
+台灣|[M087]靖天國際,http://211.22.61.109/stc/ch168169.m3u8
+台灣|[M087]靖天國際,http://211.22.61.109/stc/ch168159.m3u8
+台灣|[M087]靖天國際,http://61.222.48.67/stc/ch168159.m3u8
+台灣|[M087]靖天國際,http://61.222.48.67/stc/ch168169.m3u8
+台灣|[M088]靖天日本,http://211.22.61.109/stc/ch168166.m3u8
+台灣|[M088]靖天日本,http://211.22.61.109/stc/ch168156.m3u8
+台灣|[M088]靖天日本,http://61.222.48.67/stc/ch168156.m3u8
+台灣|[M088]靖天日本,http://61.222.48.67/stc/ch168166.m3u8
+台灣|佛教2,rtmp://hk2.hwadzan.com/liveedge/amtb
+台灣|佛教4,rtmp://hk2.hwadzan.com/liveedgelist/livetv
